@@ -1,16 +1,45 @@
-## Hi there 👋
+One more two pointers
+Sliding window
+Start with binary tree stuff
 
-<!--
-**skrigel/skrigel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ # Sasha Krigel
 
-Here are some ideas to get you started:
+**Location:** Cambridge, MA  
+**Email:** skrigel@mit.edu
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 👩‍💻 About Me
+
+Developer (frontend & backend) | UI/UX Enthusiast | Data Science Explorer
+
+Hi, I'm Sasha! I'M currently studying Computer Science & Engineering at MIT (class of 2027). I am passionate in building user-centric applications that are both technically robust and informed by data, with a particular love for LLM-based tools and visualizations.
+
+---
+
+## 🛠️ Skills and Tools
+
+- **Frontend Engineering:** React, TypeScript, JavaScript, HTML/CSS
+- **Backend Development:** Flask, Java Spring Boot, Node.js
+- **Database Management:** MongoDB, PostgreSQL, Airtable
+- **Machine Learning:** PyTorch, numpy, pandas
+- **General Programming:** Python, Java, C++, Javascript, shell scripting
+- **UI/UX Design:** Figma, user research, rapid prototyping
+
+---
+
+## 🎤 Fun Facts
+
+- I love baking and inventing unique ice cream flavors.
+- Once made a podcast about chicken nuggets.
+- Proud cat parent to a feline named Chili.
+
+---
+
+## ✉️ Get in Touch
+
+- **LinkedIn:** [Sasha Krigel](https://www.linkedin.com/in/sasha-krigel-3624052a8)
+- **Personal Website:** [skrigel.github.io/sk-portfolio-site/](https://skrigel.github.io/sk-portfolio-site/)
+- **Email:** skrigel@mit.edu
+
+---
