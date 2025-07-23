@@ -1,8 +1,4 @@
-One more two pointers
-Sliding window
-Start with binary tree stuff
-
- # Sasha Krigel
+# Sasha Krigel
 
 **Location:** Cambridge, MA  
 **Email:** skrigel@mit.edu
