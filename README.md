@@ -1,8 +1,4 @@
-# Sasha Krigel
-
-**Location:** Cambridge, MA  
-**Email:** skrigel@mit.edu
-
+# Hi there!
 ---
 
 ## 👩‍💻 About Me
