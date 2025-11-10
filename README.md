@@ -12,7 +12,7 @@ Hi, I'm Sasha! I'm currently studying Computer Science & Engineering at MIT (cla
 ## 🛠️ Skills and Tools
 
 - **Frontend Engineering:** React, TypeScript, JavaScript, HTML/CSS
-- **Backend Development:** Flask, Java Spring Boot, Node.js
+- **Backend Development:** Flask, Java Spring Boot, Node.js, Django
 - **Database Management:** MongoDB, PostgreSQL, Airtable
 - **Machine Learning:** PyTorch, numpy, pandas
 - **General Programming:** Python, Java, C++, Javascript, shell scripting
