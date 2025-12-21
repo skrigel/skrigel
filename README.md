@@ -1,11 +1,11 @@
 # Hi there!
 ---
 
-## 👩‍💻 About Me
+## About Me
 
-Developer (frontend & backend) | UI/UX Enthusiast | Data Science Explorer
+Developer (frontend & backend) | UX Enthusiast | Data Science Explorer
 
-Hi, I'm Sasha! I'm currently studying Computer Science & Engineering at MIT (class of 2027). I am passionate about building user-centric applications that are both technically robust and informed by data, with a particular love for LLM-based tools, DevOPs, and user experience.
+Hi, I'm Sasha! I'm currently studying Computer Science & Engineering at MIT (class of 2027). I am passionate about building user-centric applications that are deeply informed by data, with a particular love for AI-based tools, data engineering, devops, and user experience.
 
 ---
 
@@ -13,10 +13,9 @@ Hi, I'm Sasha! I'm currently studying Computer Science & Engineering at MIT (cla
 
 - **Frontend Engineering:** React, TypeScript, JavaScript, HTML/CSS
 - **Backend Development:** Flask, Java Spring Boot, Node.js, Django
-- **Database Management:** MongoDB, PostgreSQL, Airtable
+- **Database Management:** MongoDB, PostgreSQL, MySQL, Airtable
 - **Machine Learning:** PyTorch, numpy, pandas
-- **General Programming:** Python, Java, C++, Javascript, shell scripting
-- **UI/UX Design:** Figma, user research, rapid prototyping
+- **General Programming:** Python, Java, C++, Javascript/Typescript, shell scripting
 
 ---
 
