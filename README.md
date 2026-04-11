@@ -18,7 +18,7 @@ I particularly excited about:
 ## Skills and Tools
 
 ### Backend & Systems
-- Java (Spring Boot), Python (FastAPI/Flask/Django), Go
+- Java (Spring Boot), Python (FastAPI/Flask/Django), Go, C/C++
 - REST APIs, GraphQL, microservices architecture
 - Asynchronous processing, event-driven systems
 
@@ -32,7 +32,7 @@ I particularly excited about:
 - CI/CD, Terraform
 - Observability, system debugging
 
-### Frontend (supporting strength)
+### Frontend
 - React, TypeScript, JavaScript, HTML/CSS
 
 ---
