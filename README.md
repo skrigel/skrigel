@@ -10,7 +10,7 @@ Hi, I'm Sasha! I'm currently studying Computer Science & Engineering at MIT (cla
 I particularly excited about:
 - product-minded engineering
 - data-intensive applications  
-- internal tooling that improves engineering velocity  
+- systems programming
 - AI-integrated systems (RAG, Agentic Systems, etc.)
 
 ---
