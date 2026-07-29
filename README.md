@@ -3,7 +3,7 @@
 
 ## About Me
 
-Developer (frontend & backend) | Infra + DevOps Enthusiast | Data Science Explorer
+Developer (backend) | Infra Enthusiast | Data Science Explorer
 
 Hi, I'm Sasha! I'm currently studying Computer Science & Engineering at MIT (class of 2027)!
 
@@ -18,7 +18,7 @@ I particularly excited about:
 ## Skills and Tools
 
 ### Backend & Systems
-- Java (Spring Boot), Python (FastAPI/Flask/Django), Go, C/C++
+- Java (Spring Boot), Python (FastAPI/Flask/Django), Go, C/C++, Scala (in progress)
 - REST APIs, GraphQL, microservices architecture
 - Asynchronous processing, event-driven systems
 
