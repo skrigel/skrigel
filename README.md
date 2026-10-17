@@ -7,7 +7,7 @@ Developer (backend) | Systems programmer | Data Science Explorer
 
 Hi, I'm Sasha! I'm currently studying Computer Science & Engineering at MIT (class of 2027)!
 
-I particularly excited about:
+I am particularly excited about:
 - product-minded engineering
 - data-intensive applications  
 - operating systems
