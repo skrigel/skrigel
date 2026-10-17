@@ -19,10 +19,9 @@ Languages: C, C++, Java, Python, Go, Javascript/Typescript
 
 ## Fun Facts
 
-- I love baking and inventing unique ice cream flavors - my best is black sesame!
+- I love baking and experimenting with unique ice cream flavors - my best is black sesame!
 - Once made a podcast about chicken nuggets.
-- I am in an a capella group at MIT!
-- Proud cat parent to a feline named Chili.
+- I am in an a capella group at MIT called the MIT Muses!
 
 ---
 
