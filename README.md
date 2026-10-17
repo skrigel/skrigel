@@ -13,6 +13,8 @@ I am particularly excited about:
 - operating systems
 - efficient AI inference
 
+Languages: C, C++, Java, Python, Go, Javascript/Typescript
+
 ---
 
 ## Fun Facts
