@@ -3,7 +3,7 @@
 
 ## About Me
 
-Developer (backend) | Systems programmer | Data Science Explorer
+Backend Development | Computer Systems | Efficient AI/ML
 
 Hi, I'm Sasha! I'm currently studying Computer Science & Engineering at MIT (class of 2027)!
 
